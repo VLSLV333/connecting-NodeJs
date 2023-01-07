@@ -1,0 +1,18 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "learning nodeJs",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VLSLV333/connecting-NodeJs.git"
+  },
+  "author": "Vladyslav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VLSLV333/connecting-NodeJs/issues"
+  },
+  "homepage": "https://github.com/VLSLV333/connecting-NodeJs#readme"
+}
