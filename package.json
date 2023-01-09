@@ -2,8 +2,11 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "learning nodeJs",
-  "main": "index.js",
+  "exports": "./index.js",
+  "type": "module",
   "scripts": {
+    "start": "node index.js",
+    "build": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -14,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/VLSLV333/connecting-NodeJs/issues"
   },
-  "homepage": "https://github.com/VLSLV333/connecting-NodeJs#readme"
+  "homepage": "https://github.com/VLSLV333/connecting-NodeJs#readme",
+  "devDependencies": {
+    "chalk": "^5.2.0",
+    "nodemon": "^2.0.20"
+  }
 }
