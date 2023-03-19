@@ -4,5 +4,3 @@ dipper in it's abilities! The most interesting question - can it follow html fil
 
 Feels like it can follow html = https://github.com/remy/nodemon/blob/HEAD/doc/requireable.md
 ext: 'js json' = line to follow all js and json files
-
-Didn't work for me in tutorial LUL=)
